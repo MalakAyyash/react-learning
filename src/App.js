@@ -38,9 +38,10 @@ export default function App() {
       <button onClick={decrement} > decrement</button>
 
     </div>
+
   )
 }
-
+// ======
 // ===========================use reduser =========================
 // import React from 'react'
 // import Count from './Component/Count/Count'
